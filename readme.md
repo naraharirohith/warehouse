@@ -29,7 +29,6 @@ A terminal-based warehouse management system implementing core inventory feature
 ```bash
 # Debian/Ubuntu
 sudo apt update && sudo apt install -y \
-    build-essential \
     git \
     libjson-dev
 
